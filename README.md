@@ -14,6 +14,10 @@ The prompt doesn't require a specific language, hosting service or AI provider.
 
 Please review what you build before your child uses it. Check how each service handles a child's data, stay involved, and read the history in the parent area. AI can make mistakes.
 
+## Licence
+
+© 2026 kharchenkomv. This prompt is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can share and adapt it, including commercially, if you give credit, link to the licence and say if you changed it. See [LICENSE](LICENSE).
+
 ## The prompt
 
 ````text
